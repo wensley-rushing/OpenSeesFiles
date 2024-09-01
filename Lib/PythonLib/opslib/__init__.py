@@ -17,7 +17,7 @@
 """
 
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 __version__ = '0.0.0.1'
 

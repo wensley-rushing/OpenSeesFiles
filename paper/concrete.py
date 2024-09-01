@@ -9,7 +9,7 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 from concurrent.futures import ThreadPoolExecutor
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 
 def run(arg_1, arg_2, arg_3, arg_4):

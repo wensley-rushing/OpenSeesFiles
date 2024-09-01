@@ -6,7 +6,7 @@ Last Modified time: 2020-09-19 10:53:01
 """
 
 # import openseespy.postprocessing.Get_Rendering as opsplt
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 import argument as argu
 from liblog import logger

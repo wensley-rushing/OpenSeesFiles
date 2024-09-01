@@ -3,7 +3,7 @@
 # Last Modified by: Mengsen.Wang
 # Last Modified time: 2020-09-30 21:21:58
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 from liblog import logger
 import argument as argu
 

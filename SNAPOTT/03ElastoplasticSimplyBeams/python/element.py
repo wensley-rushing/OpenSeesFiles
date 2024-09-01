@@ -5,7 +5,7 @@
  * @Last Modified by:   Mengsen.Wang
  * @Last Modified time: 2020-05-29 15:10:38
 '''
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 from log import logger
 
 

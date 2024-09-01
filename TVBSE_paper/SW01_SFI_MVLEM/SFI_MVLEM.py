@@ -7,7 +7,7 @@ LastEditTime: 2021-05-09 20:26:48
 # mm N Mpa
 
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 import openseespy.postprocessing.Get_Rendering as opsplt
 from liblog import log_init, logger
 from libCycliAnalysis import CyclicDisplace

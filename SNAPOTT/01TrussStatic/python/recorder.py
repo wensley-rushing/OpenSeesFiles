@@ -1,6 +1,6 @@
 import os
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 from log import logger
 

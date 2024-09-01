@@ -6,7 +6,7 @@
 import time
 from liblog import logger, log_init
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 from data import data
 
 time = time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime())

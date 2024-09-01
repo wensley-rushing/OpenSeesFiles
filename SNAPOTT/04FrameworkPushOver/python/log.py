@@ -8,7 +8,7 @@
 
 import os
 import logging
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 logger = logging.getLogger(__name__)
 logger.setLevel(level=logging.INFO)

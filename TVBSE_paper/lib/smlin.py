@@ -168,7 +168,7 @@ README:
         
 """
 
-from openseespy.opensees import *
+from opensees.openseespy import *
 import time
 
 

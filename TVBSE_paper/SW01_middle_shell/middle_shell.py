@@ -5,7 +5,7 @@ LastEditors: Mengsen Wang
 LastEditTime: 2021-05-30 18:25:08
 '''
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 import openseespy.postprocessing.Get_Rendering as opsplt
 from openseespy.preprocessing.liblog import log_init, logger
 

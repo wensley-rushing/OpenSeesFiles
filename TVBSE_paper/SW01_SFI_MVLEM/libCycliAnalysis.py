@@ -6,7 +6,7 @@ Last Modified time: 2020-09-20 10:16:22
 Description： management all of process
 """
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 from liblog import logger
 
 

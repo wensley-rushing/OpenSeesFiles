@@ -1,4 +1,4 @@
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 from libCycliAnalysis import CyclicDisplace
 from liblog import log_init
 

@@ -16,7 +16,7 @@ LastEditTime: 2021-04-21 12:21:52
 # 纵筋为 0 20 110 200 300 400 500 600 700 800 890 980 1000
 
 
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 import openseespy.postprocessing.Get_Rendering as opsplt
 from liblog import log_init, logger
 from libCycliAnalysis import CyclicDisplace

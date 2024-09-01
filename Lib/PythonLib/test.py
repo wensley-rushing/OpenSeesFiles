@@ -8,5 +8,5 @@
 """
 
 import opslib as lib
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 print(lib.__version__)

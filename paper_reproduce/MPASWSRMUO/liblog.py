@@ -9,7 +9,7 @@ Description: set log
 import os
 import shutil
 import logging
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 logger = logging.getLogger(__name__)
 
